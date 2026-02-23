@@ -192,7 +192,7 @@ http://localhost:5173/
 - Application runs publicly via shared URLs
 
 
-##📂 Project Structure
+## 📂 Project Structure
 repo/
 - │
 - ├── backend/
