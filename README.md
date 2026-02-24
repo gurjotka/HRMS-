@@ -13,7 +13,7 @@ Frontend (Vercel)
 https://hrms-psi-eight.vercel.app/
 
 Backend API (Render)  
-https://hrms-backend-4k9i.onrender.com/
+https://hrms-backend-4k9i.onrender.com/api/
 
 ---
 
